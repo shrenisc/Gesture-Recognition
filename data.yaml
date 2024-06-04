@@ -1,4 +1,4 @@
-path: /path/to/dataset  # Change this to the actual path of your dataset
+path: ./dataset  # Change this to the actual path of your dataset
 train: images/train
 val: images/val
 
